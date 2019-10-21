@@ -1,5 +1,6 @@
 # trials
-#Implementation
+#Implementation:
+
   The solution runs on Android 8 and above. Attached video indicates the working of the solution.
   
 #Package used
