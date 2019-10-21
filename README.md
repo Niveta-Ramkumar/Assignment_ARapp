@@ -1,12 +1,15 @@
 # trials
-##Implementation
+#Implementation
   The solution runs on Android 8 and above. Attached video indicates the working of the solution.
-##Package used
+  
+#Package used
   Unity 2019.2.8f1
   ARCORE SDK
-Problem
+  
+#Problem
   To create a User Interface to measure the dimensions and estimate whether they can carry a package or not. Also add additional features.
-Solution
+  
+#Solution
   Allows user to choose the car model.
   The user can name and measure more than one package.
   Developed a tool to measure the size of the package using ARCORE.
@@ -15,7 +18,8 @@ Solution
   After measuring, it displays how it fits into the model trunk (indicating dimensions).
   Ask questions “Can we stack?” to offer a better solution.
   Modular solution that can be extended .
-Improvements
+  
+#Improvements
   If given more time, I would like to make the following improvements in the application
   Store asset using JSON scripts or playerprefs. Also include regular travel suitcases as an AR object.
   Create a better asset for the trunk of the car.
