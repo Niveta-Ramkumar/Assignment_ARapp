@@ -1,7 +1,7 @@
 # trials
-Implementation
+##Implementation
   The solution runs on Android 8 and above. Attached video indicates the working of the solution.
-Package used
+##Package used
   Unity 2019.2.8f1
   ARCORE SDK
 Problem
